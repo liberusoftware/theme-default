@@ -18,7 +18,7 @@
       "name": "default"
     }
   },
-  "version": "1.9.2",
+  "version": "1.9.3",
   "require-dev": {
     "liberusoftware/package-testbench": "^1.5",
     "pestphp/pest": "^5.3.3"
